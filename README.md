@@ -1,9 +1,26 @@
-# Build Modern Next 14 Server Side App with Server Actions, Infinite Scroll & Framer Motion Animations
+# Anime Vault
 
-![Anime Website](https://i.ibb.co/MG1nbqt/YT-Thumbnails-2.png)
+Anime Vault is a website built with Next.js, Framer Motion, TypeScript, and Tailwind CSS. It serves as a platform to explore and discover your favorite anime.
 
-### [🌟 Become a top 1% Next.js 14 developer in only one course](https://jsmastery.pro/next14)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
-### [📙 Free Three.js Cheatsheet](https://resource.jsmastery.pro/threejs-cheatsheet)
-### [🌐 Best Hosting for Your Websites](https://hostinger.com/javascript10)
+## Features
 
+- View a curated list of anime.
+- Smooth animations powered by Framer Motion.
+- Developed with TypeScript for a strongly typed codebase.
+- Styled with Tailwind CSS for a responsive and modern UI.
+
+## Technologies Used
+
+- [Next.js](https://nextjs.org/)
+- [Framer Motion](https://www.framer.com/motion/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+
+## Getting Started
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/NNahkan/AnimeVault.git
+   cd anime-vault
+   ```
