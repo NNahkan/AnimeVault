@@ -22,5 +22,4 @@ Anime Vault is a website built with Next.js, Framer Motion, TypeScript, and Tail
 
    ```bash
    git clone https://github.com/NNahkan/AnimeVault.git
-   cd anime-vault
    ```
